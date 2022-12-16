@@ -2,6 +2,9 @@
 I am Gabrysia and i study Computer Science at AGH 
 > 🔭 FriendBy ~ it's the name of a project im currently working on with my friends
 
+the article : https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual
+the repository based on the article: https://github.com/Gvabix/vit-visualization
+
 #### My interests
 - 🐱 cats
 - 🩰dance
